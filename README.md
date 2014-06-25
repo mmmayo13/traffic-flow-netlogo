@@ -18,7 +18,7 @@ Sliders and switches for:
 - Load traffic.nlogo into NetLogo environment
 - Initialize model & run simulation
 
-![Traffic NetLogo]()
+![Traffic NetLogo](https://raw.githubusercontent.com/mmmayo13/traffic-flow-netlogo/master/traffic.png)
 
 ### Requirements
 
